@@ -1,7 +1,7 @@
 # Assignment-1
 
-Name: Naitik Malav
-Roll No: CS19BTECH11026
+Name: Darshan Mittal
+Roll No:112015037
 
 ## Navigation-Commands, Compilation and running steps
 
@@ -146,8 +146,8 @@ Note: For 10-14 main files and stack.cpp files are almost same with very few mod
 I have implemented only 14 methods from given pdf. And half of the 15th one. Am unable to debug vtable error.
 stack15.h, astack.h, lstack.h, aastack.h are under progress. Due to time constraint I could not debug it. Please consider my request. 
 Thank you
-Naitik malav
-CS19BTECH11026
+Darshan Mittal
+112015037
  
 ## Examples and few Screenshots
 Here's the drive [link](https://drive.google.com/drive/folders/1e5kj4MbLRyUzz1imCyf5IHGhrmV8GaA2?usp=sharing) for screenshot. You can follow this link if you find any difficulty in above steps. Also it'll easily explain you all the steps. I have tested few inputs and program runs successfully.
